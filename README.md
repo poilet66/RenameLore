@@ -1,3 +1,3 @@
 Permissions:\
 to lore: renamelore.lore\
-to rename: renamelore.rename\
+to rename: renamelore.rename
