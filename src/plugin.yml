@@ -1,0 +1,11 @@
+name: LoreRename
+version: 1.0
+main: me.poilet66.renamelore.RenameLoreMain
+api-version: 1.15
+commands:
+  lore:
+    usage: /lore <lore>
+    description: Adds lore to item currently in hand
+  rename:
+    usage: /rename <name>
+    description: Renames item currently in hand
